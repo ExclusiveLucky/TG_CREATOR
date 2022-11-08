@@ -1,0 +1,6 @@
+[2022-10-04 00:31:42] [INFO]: ѕапка дл€ лог-файла и лог-файл созданы (D:\Work\TelegramSessionRegistrator Ч копи€\log\logfile.log).
+[2022-10-04 00:31:42] [INFO]: ѕапка дл€ сессий создана (D:\Work\TelegramSessionRegistrator Ч копи€\sessions).
+[2022-10-04 00:31:42] [INFO]:  лючи успешно получены из файла (D:\Work\TelegramSessionRegistrator Ч копи€\utils\api_keys.ini).
+[2022-10-04 00:31:42] [INFO]: ќбъект класса дл€ работы с сайтом sms-activate.org создан.
+[2022-10-04 00:31:42] [INFO]: ќбъект класса дл€ работы с сайтом simsms.org создан.
+[2022-10-04 00:31:42] [INFO]: Proxy успешно получены из файла (D:\Work\TelegramSessionRegistrator Ч копи€\utils\socks5.txt).
